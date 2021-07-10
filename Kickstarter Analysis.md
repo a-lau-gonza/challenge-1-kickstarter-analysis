@@ -16,8 +16,8 @@
 
    Considering Louise's decision on starting a camapign for a theater play, the odds of success are slightly in favor of _theaters_ with less than half being either failed or canceled, and this positive trend continues with _plays_ within the theater category being more successful than not.
 
-![Outcomes of Theater](Write-up Resources/Outcomes_of_Theater.png)
-![Outcomes of Plays](Write-up Resources/Outcomes_of_Plays.png)
+![Outcomes of Theater](Write-up_Resources/Outcomes_of_Theater.png)
+![Outcomes of Plays](Write-up_Resources/Outcomes_of_Plays.png)
 
    In conjunction with a planned starting date in the month of **May** and financial goals within the **ranges of less than $5000** or **$35000 to $45000**, the probability of reaching the stated goal has a more positive outlook than other possibilities in launch date and goals.
 
@@ -38,7 +38,7 @@
 
    Some challenges I encountered in following the directions to sort the data were mostly down to how specific the formula coding was to get what I wanted. One of the mistakes I made involved the line graph for Outcomes Based on Goals being incorrect due to my fault in not narrowing the data to include only _plays_. 
 
-![Coding Specificity](Write-up Resources/coding_specificity.png)
+![Coding Specificity](Write-up_Resources/coding_specificity.png)
 
    The amount of specificity involved in getting the correct data falls in line with the prospect of having to tell the computer **_exactly_** what needs to be done, otherwise the result will not be correct. The redundancy of checking the codes to make sure the correct columns/rows/cells also played a part in data combing. It's a mindset, that as a human being with many automatic functions, such as moving my arms without thinking about which specific muscles to use, is difficult to adjust to but necessary in coding in general.
 
