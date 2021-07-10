@@ -9,7 +9,7 @@
 ## Analysis and Challenges
    ![Theater Outcomes vs Launch](a-lau-gonza/challenge-1-kickstarter-analysis/Resources/Theater_Outcomes_Vs_Launch.png)
 
-   ![Outcomes vs Goals](a-lau-gonza/challenge-1-kickstarter-analysis/Resources/Outcomes_vs_Goals.png)
+   ![Outcomes vs Goals](Resources/Outcomes_vs_Goals.png)
 ### Analysis of Outcomes Based on Launch Date
 
 ### Analysis of Outcomes Based on Goals
