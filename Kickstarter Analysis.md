@@ -7,9 +7,9 @@
 
      From the point of view for Louise, this data collected can give a good perspective of when to launch her own kickstarter as well as what projects based on genre/form of performance does well in other instances. 
 ## Analysis and Challenges
-   ![Theater_Outcomes_Vs_Launch](a-lau-gonza/challenge-1-kickstarter-analysis/Resources/Theater_Outcomes_Vs_Launch.png)
+   ![Theater Outcomes vs Launch](a-lau-gonza/challenge-1-kickstarter-analysis/Resources/Theater_Outcomes_Vs_Launch.png)
 
-   ![Outcomes_vs_Goals](a-lau-gonza/challenge-1-kickstarter-analysis/Resources/Outcomes_vs_Goals.png)
+   ![Outcomes vs Goals](a-lau-gonza/challenge-1-kickstarter-analysis/Resources/Outcomes_vs_Goals.png)
 ### Analysis of Outcomes Based on Launch Date
 
 ### Analysis of Outcomes Based on Goals
