@@ -38,7 +38,7 @@
 
    Some challenges I encountered in following the directions to sort the data were mostly down to how specific the formula coding was to get what I wanted. One of the mistakes I made involved the line graph for Outcomes Based on Goals being incorrect due to my fault in not narrowing the data to include only _plays_. 
 
-![Coding Specificity](Write-up_Resources/coding_specificity.png)
+![Coding Specificity](Write-up Resources/coding_specificity.png)
 
    The amount of specificity involved in getting the correct data falls in line with the prospect of having to tell the computer **_exactly_** what needs to be done, otherwise the result will not be correct. The redundancy of checking the codes to make sure the correct columns/rows/cells also played a part in data combing. It's a mindset, that as a human being with many automatic functions, such as moving my arms without thinking about which specific muscles to use, is difficult to adjust to but necessary in coding in general.
 
